@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# >>>>>>> by pjzero
+
+nohup.out
+
+# <<<<<<< by pjzero
+
 # C extensions
 *.so
 
